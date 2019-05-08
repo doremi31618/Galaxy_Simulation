@@ -1,5 +1,6 @@
 # Galaxy_Simulation
 << an galaxy simulator >>
+![Image](https://github.com/doremi31618/Galaxy_Simulation/blob/master/galaxy_simulator.gif).
 
-you can see the result in my instagram
-https://www.instagram.com/p/Bhl3aMqlPKO/?taken-by=doremi31618
+if you like my work you can follow me on my instagram:.
+https://www.instagram.com/doremi31618/?hl=zh-tw
